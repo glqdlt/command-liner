@@ -1,7 +1,7 @@
 {
-  "name": "mycli",
+  "name": "command-liner",
   "version": "0.0.1",
-  "description": "",
+  "description": "mycli-test package",
   "repository": {
     "type" : "git",
     "url" : "https://github.com/glqdlt/command-liner"
